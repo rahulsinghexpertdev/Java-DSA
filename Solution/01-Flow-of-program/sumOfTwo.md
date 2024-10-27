@@ -2,4 +2,4 @@
 
 Take two numbers and print the sum of both.
 
-<img alt="sumOfTwo.svg" src="../svg/sumOfTwo.svg"/>
+<img alt="sumOfTwo.svg" src="svg/sumOfTwo.svg"/>

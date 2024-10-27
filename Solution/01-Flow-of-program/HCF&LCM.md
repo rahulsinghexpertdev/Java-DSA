@@ -2,4 +2,4 @@
 
 Take two numbers as inputs and find their HCF and LCM.
 
-<img alt="HCF&LCM.svg" src="../svg/HCF&LCM.svg"/>
+<img alt="HCF&LCM.svg" src="svg/HCF&LCM.svg"/>
